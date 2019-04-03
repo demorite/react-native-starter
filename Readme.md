@@ -1,6 +1,6 @@
 ## Simple React Native starter kit
 
-####Coming with : 
+###Coming with : 
 - Expo
 - Firebase
 - Immutable
@@ -12,7 +12,7 @@
 - Lodash
 - MomentJS
 
-####Getting started
+###Getting started
     1   git clone https://github.com/demorite/react-native-starter.git
     2   cd react-native-starter
     3   yarn install
