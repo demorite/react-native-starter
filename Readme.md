@@ -1,16 +1,17 @@
 ## Simple React Native starter kit
 
 ### Coming with : 
+- Axios
 - Expo
 - Firebase
 - Immutable
+- Lodash
+- MomentJS
 - React Native Vector icons
 - React navigation
 - Redux
 - Redux thunk
 - Styled components
-- Lodash
-- MomentJS
 
 ### Getting started
     1   git clone https://github.com/demorite/react-native-starter.git
