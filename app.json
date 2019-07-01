@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "countdown",
-    "slug": "countdown",
+    "name": "react-native-starter",
+    "slug": "react-native-starter",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
